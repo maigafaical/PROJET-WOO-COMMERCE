@@ -1,0 +1,14 @@
+MES IDENTIFIANTS
+
+-Compte admin:
+.username: faicalmaiga
+.password: Faical54@
+
+
+-compte editeur1:
+.username: editeur1
+.password: editeur1
+
+-compte editeur2:
+.username: editeur2
+.password: editeur2
